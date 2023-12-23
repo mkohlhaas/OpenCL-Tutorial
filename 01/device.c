@@ -1,5 +1,6 @@
 #include "err_code.h"
 #include <CL/cl.h>
+#include <stdio.h>
 
 #define STR_LENGTH 1024
 #define KB 1024
